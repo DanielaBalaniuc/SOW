@@ -1,2 +1,2 @@
 # SOW
-Statement of Work
+Statement of Work Template
